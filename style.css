@@ -1,1 +1,95 @@
+body {background-color: #00694d;
+      margin-left: 50px;
+      margin-right: 50px;
+     }
 
+h2 {font-size:100px;
+    color:#FFFFFF;
+    text-align:center;
+    font-family: 'Oswald';
+   }
+
+.box {width: 1000px;
+      margin-right:0px;
+     }
+
+.nails, .shoes, .quotes{width: 700px;
+                        height:55px;
+                        padding: 0px 10px 20px 30px;
+                        border: 1px solid #FFFFFF;
+                        background-color: #000000;
+                        margin-bottom:80px;
+                        box-shadow:0 0 50px 5px #7adec3;
+                       }
+
+.shoes {margin-left:60px;
+       }
+
+.nails {margin-left:240px;
+       }
+
+.quotes {margin-left:420px;
+        }
+
+h3 {font-size:40px;
+    color:#FFFFFF;
+    margin-top: 5px;
+    margin-bottom:50px;
+   }
+
+h4 {padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 35px;
+    padding-right: 35px;
+    text-align: justify;
+    font-style: oblique;
+    color: #28464a;
+    font-weight:400;
+    text-shadow: 3px 3px 3px rgba(36,36,36,0.20);
+    line-height: 1.25;
+    font-size:35px;
+   }
+
+.signature {margin-top:-135px;
+            text-align: right;
+            font-style: oblique;
+            font-weight:600;
+            color: #28464a;
+            text-shadow: 3px 3px 3px rgba(36,36,36,0.20);
+            font-size:40px;  
+           }
+
+a {color:#FFFFFF;
+   text-decoration: none;
+   text-align:center;
+   font-family: 'Oswald';
+  }
+
+a:hover {color:#7adec3;
+        }
+
+h2:hover{color:#7adec3;
+        }
+
+::selection{background-color:#7adec3;
+           }
+
+#paper{position: relative;
+       margin-left:auto;
+       margin-right: auto;
+       margin-bottom:150px;
+       width: 600px;
+       height: 775px;
+       background: white;
+       background-image: url("https://image.freepik.com/free-photo/brown-crumpled-paper-texture-background_64749-1947.jpg");
+       border-radius: 0% 0% 0% 0% / 0% 0% 0% 0% ;
+       box-shadow: 20px 20px rgba(0,0,0,.20);
+       transition: all .4s ease;
+      }
+
+#paper:hover {box-shadow: 10px 10px rgba(0,0,0,.25);
+             }
+
+.aha{font-weight: 600;
+     font-size:45px;
+    }
