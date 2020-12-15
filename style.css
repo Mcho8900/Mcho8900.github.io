@@ -24,12 +24,14 @@ h2 {font-size:100px;
 
 .shoes {margin-left:60px;
         margin-top: 80px;
+        padding-left: 100px;
        }
 
 .nails {margin-left:240px;
        }
 
 .quotes {margin-left:420px;
+         padding-left: 100px;
         }
 
 h3 {font-size:40px;
