@@ -13,7 +13,7 @@ h2 {font-size:100px;
       margin-right:0px;
      }
 
-.nails, .shoes, .quotes{width: 600px;
+.nails, .shoes, .quotes{width: 500px;
                         height:55px;
                         padding: 0px 10px 20px 30px;
                         border: 1px solid #FFFFFF;
@@ -79,7 +79,7 @@ h2:hover{color:#7adec3;
        margin-right: auto;
        margin-bottom:150px;
        width: 600px;
-       height: 775px;
+       height: 815px;
        background: white;
        background-image: url("https://image.freepik.com/free-photo/brown-crumpled-paper-texture-background_64749-1947.jpg");
        border-radius: 0% 0% 0% 0% / 0% 0% 0% 0% ;
