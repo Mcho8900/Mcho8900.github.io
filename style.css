@@ -108,7 +108,7 @@ h5 {font-size:20px;
     text-align:center;
     font-family: 'Oswald';
     letter-spacing: 1.5px;
-      margin-left:-50px;
+      padding-left:-50px;
    }
 
 .billie:hover{transform:scale(1.15);
