@@ -108,7 +108,7 @@ h5 {font-size:20px;
     text-align:center;
     font-family: 'Oswald';
     letter-spacing: 1.5px;
-      margin-left:-50px;
+      margin-left:-20px;
    }
 
 .billie:hover{transform:scale(1.15);
@@ -123,10 +123,10 @@ h5 {font-size:20px;
           flex-wrap: wrap;
           }
 
-.billie-name{padding-left:20px;
-             padding-right: 20px;
+.billie-name{padding-left:30px;
+             padding-right: 30px;
             }
 
-.naznin-name{padding-left:20px;
-             padding-right: 20px;
+.naznin-name{padding-left:30px;
+             padding-right: 30px;
             }
