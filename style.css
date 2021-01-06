@@ -113,6 +113,8 @@ h5 {font-size:20px;
 
 .billie:hover{transform:scale(1.15);
              }
+.mehreen:hover{transform:scale(1.15);
+             }
 .naznin:hover{transform:scale(1.15);
              }
 
@@ -128,5 +130,8 @@ h5 {font-size:20px;
             }
 
 .naznin-name{padding-left:30px;
+             padding-right: 30px;
+            }
+.mehreen-name{padding-left:30px;
              padding-right: 30px;
             }
