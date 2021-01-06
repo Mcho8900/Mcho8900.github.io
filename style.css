@@ -116,6 +116,7 @@ h5 {font-size:20px;
 .mehreen:hover{transform:scale(1.15);
              }
 .naznin:hover{transform:scale(1.15);
+              display: flex;
              }
 
 .drawings{width:auto;
